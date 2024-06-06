@@ -1,0 +1,18 @@
+1.2 Data is All Around Us
+DISCRETE DATA is data collected by counting. 
+	- It is whole, concrete numbers. 
+	- Discrete data typically involves counting rather 		than measuring and is often prefixed with “the 	number of”.
+CONTINUOUS DATA is data collected by measuring.
+
+1.2.3 Data Types
+STRING is a text.
+INTEGER is a whole number.
+FLOATING numbers with decimal places.
+DATE AND TIME.
+BOOLEAN true(yes or 1) and false(no or 0).
+
+1.2.6 Structured and Unstructured Data
+STRUCTURED DATA is organized and searchable.
+	- Used with rows and columns.
+UNSTRUCTURED DATA is more diverse and challenging to work with.
+	- Examples: photos, videos, social media posts, emails, 	and other variable content.
