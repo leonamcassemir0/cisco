@@ -1,0 +1,9 @@
+2.1 UNDERSTANDING BIG DATA
+
+BIG DATA é o número massivo de dados gerados, geralmente unstructured datas.
+- Características do big data:
+	- Volume
+	- Variety
+		- Um grande contribuidor do big data são os unstructured datas.
+	- Velocity
+	- Veracity
